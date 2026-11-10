@@ -1,1 +1,0 @@
-var CloudSaveManager: any;

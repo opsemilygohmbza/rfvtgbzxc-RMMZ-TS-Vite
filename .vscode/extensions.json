@@ -1,7 +1,0 @@
-{
-	"recommendations": [
-		// prettier 格式化插件
-		"esbenp.prettier-vscode",
-	],
-	"unwantedRecommendations": []
-}
